@@ -1,2 +1,2 @@
-user_name="postgres"
-password="DataViz3!"
+user_name="USERNAME HERE"
+password="PASSWORD HERE"
