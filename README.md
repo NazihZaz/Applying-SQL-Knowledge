@@ -53,5 +53,5 @@ Once the database was completed, I ran queries to list the followings:
 
 ### Bonus (Optional)
 1. Imported the SQL database into Pandas. 
-2. [Created a histogram to visualize the most common salary ranges for employees.]((https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Salary_Ranges_For_Employees.png)
+2. [Created a histogram to visualize the most common salary ranges for employees.](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Salary_Ranges_For_Employees.png)
 3. [Created a bar chart of average salary by title.](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Average_Salary_per_Title.png)
