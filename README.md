@@ -1,6 +1,6 @@
 # sql-challenge
 
-This repository contains my solution of the SQL Homework - Employee Database: A Mystery in Two Parts:
+This repository contains my solution of the SQL Homework GATECH Data Science and Analytics Bootcamp  - Employee Database: A Mystery in Two Parts:
 
 > [Part I  - Data Modeling](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/data_engineering_schemata.sql)
 
@@ -12,8 +12,15 @@ As a starter point, an [Entity Relationship Diagram](https://github.com/NazihZaz
 ![Entity Relationship Diagram](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/ERD.PNG)
 
 Also, a [bonus part](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Bonus.ipynb) was completed by importing the SQL database into Pandas and generating the visualizations below
+
+-Salary Ranges for Employees
+![Salary Ranges for Employees](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Salary_Ranges_For_Employees.png)
+
+- Average Salary per Title
+![Average Salary per Title](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Average_Salary_per_Title.png)
  
 ## Background
+
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 
@@ -23,7 +30,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
-## Instructions
+## Steps Taken
 
 ### Data Modeling/Engineering
 
@@ -46,5 +53,5 @@ Once the database was completed, I ran queries to list the followings:
 
 ### Bonus (Optional)
 1. Imported the SQL database into Pandas. 
-2. Created a histogram to visualize the most common salary ranges for employees.
-3. Created a bar chart of average salary by title.
+2. [Created a histogram to visualize the most common salary ranges for employees.]((https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Salary_Ranges_For_Employees.png)
+3. [Created a bar chart of average salary by title.](https://github.com/NazihZaz/sql-challenge/blob/main/EmployeeSQL/Average_Salary_per_Title.png)
